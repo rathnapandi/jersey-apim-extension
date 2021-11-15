@@ -1,4 +1,4 @@
-# OpenID Connect (OIDC) based SSO for API Manager and Portal UI
+# Deploy Jersey JAX_RS application on API Gateway
 
 ## API Management Version Compatibility
 This artefact was successfully tested for the following versions:
