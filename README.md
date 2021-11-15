@@ -52,11 +52,9 @@ In build.gradle file, update dependencies location :
 
 
 ## Test Jersey JAX-RS API
-    - Open a browser
-    - Type https://APIManagerhost:port/api/portal/v1.4/oidc
-    - API Manager redirects to IDP login page
-    - Enter credentials
-    - Redirect back to API Manager UI with appropriate role
+    - Open a browser or postman
+    - Type http://APIManagerhost:8080/jersey/health
+   
 
 
 ## Bugs
